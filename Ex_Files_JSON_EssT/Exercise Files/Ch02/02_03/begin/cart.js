@@ -8,7 +8,7 @@ let cart = [
       color: "periwinkle",
       price: 99.00,
     }
-  }, 
+  },
   {
     productId: "532",
     itemKey: "a14cab08bca65354fd65dc6482a55ff5",
@@ -22,7 +22,7 @@ let cart = [
 ];
 
 // Enter code to stringify the `cart` variable here:
-
+console.log(JSON.stringify(cart))
 
 let single = {
   productId: "530",
@@ -36,4 +36,4 @@ let single = {
 };
 
 // Enter code to stringify the `single` variable here:
-
+console.log(JSON.stringify(single));

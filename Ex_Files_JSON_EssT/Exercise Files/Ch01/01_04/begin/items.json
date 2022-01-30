@@ -1,0 +1,26 @@
+[
+  {
+    "id": 530,
+    "name": "Bamboo Thermal Ski Coat",
+    "image_title": "ski-coat_lynda_29940",
+    "image": "https://hplussport.com/wp-content/uploads/2016/12/ski-coat_LYNDA_29940.jpg",
+    "previous_purchases":{
+      "transaction-id": 1919293,
+      "customer_name":"Terry Brooks",
+      "date_of_transaction":"12/22/21",
+      "sale_total": 435.10
+    }
+},
+  {
+    "id": 436,
+    "name": "Blueberry Mineral Water",
+    "image_title": "mineral-water-blueberry_600px",
+    "image": "https://hplussport.com/wp-content/uploads/2015/12/mineral-water-blueberry_600px.png",
+      "previous_purchases":{
+        "transaction-id": 1919293,
+        "customer_name":"Marlow Green",
+        "date_of_transaction":"01/22/21",
+        "sale_total": 35.10
+      }
+  }
+]
